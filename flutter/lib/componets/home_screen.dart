@@ -46,7 +46,7 @@ class _Home_screenState extends State<Home_screen> {
   @override
   void initState() {
     super.initState();
-    googlePlace = GooglePlace("AIzaSyAvUnUXH-HJLR_JIgDHtfonWe-m_hdIGY0");
+    googlePlace = GooglePlace("-------------------------------------------");
     extractDatos();
     listDirsAll();
   }
